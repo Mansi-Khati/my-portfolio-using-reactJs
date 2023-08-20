@@ -10,6 +10,32 @@ const works = [
       
    },
    {
+      title: "Sweet Tooth-Bakery Website",
+      description: "A online webite to browse through products and order online.",
+      codeLink: "https://github.com/Mansi-Khati/Sweet-Tooth",
+      projectLink: "https://sweettooth101.000webhostapp.com/",
+      imageUrl: images.sweet,
+      
+   },
+   {
+      title: "SushiMan",
+      description: "Responive Landing Page for sushi restaurant",
+      codeLink: "https://github.com/Mansi-Khati/sushiMan",
+      projectLink:
+         "https://sushi-man02.netlify.app/",
+      imageUrl: images.sushi,
+      
+   },
+   {
+      title: "Headphones Landing Page",
+      description: " A interactive and creative landing page for headphones.",
+      codeLink: "https://github.com/Mansi-Khati/responsive-landing-page-headphones",
+      projectLink:
+         "https://beats3.vercel.app/",
+      imageUrl: images.head,
+      
+   },
+   {
       title: "Patterns Website Landing Page",
       description: "A responsive page using Bootstrap ",
       codeLink: "https://github.com/Mansi-Khati/Bootstrap_pattern",
@@ -28,25 +54,8 @@ const works = [
       
    }
    
-   ,
-   {
-      title: "Price Panel Landing Page",
-      description: "Responive Page for Price Panel",
-      codeLink: "https://github.com/Mansi-Khati/PricingPanell",
-      projectLink:
-         "https://pricing-panel-blush.vercel.app/",
-      imageUrl: images.pricing,
-      
-   },
-   {
-      title: "Stats Preview Card",
-      description: "Frontend mentor challenge",
-      codeLink: "https://github.com/Mansi-Khati/stats-preview-card-component-main",
-      projectLink:
-         "https://stats-preview-card-component-main-delta.vercel.app/",
-      imageUrl: images.stats,
-      
-   }
+   
+   
    
    
 ];
