@@ -10,7 +10,7 @@ const works = [
       
    },
    {
-      title: "Sweet Tooth-Bakery Website",
+      title: "Online Bakery Website",
       description: "A online webite to browse through products and order online.",
       codeLink: "https://github.com/Mansi-Khati/Sweet-Tooth",
       projectLink: "https://sweettooth101.000webhostapp.com/",

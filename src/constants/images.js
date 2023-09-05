@@ -21,7 +21,8 @@ import pricing from "../assets/pricing.png";
 import pattern from "../assets/Uber.png";
 import sweet from "../assets/sweet.png";
 import head from "../assets/head.png";
-import sushi from "../assets/sushi.png"
+import sushi from "../assets/sushi.png";
+import about03 from "../assets/about03.png";
 // eslint-disable-next-line import/no-anonymous-default-export
 export default {
    sushi,
@@ -42,6 +43,7 @@ export default {
    react,
    about01,
    about02,
+   about03,
    circle,
    me,
    logo1,

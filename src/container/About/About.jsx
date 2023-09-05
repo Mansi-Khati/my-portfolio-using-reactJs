@@ -6,6 +6,11 @@ import { AppWrap, MotionWrap } from "../../wrapper";
 function About() {
    const abouts = [
       {
+         title: "Software Developer Engineer",
+         description:"Passion software developer for building innovative and user-friendly software solutions.",
+         imageUrl: images.about03,
+      },
+      {
          title: "Frontend Developer",
          description:"Passionate about creating a beautiful and easy navigation website for better user experience",
          imageUrl: images.about01,
