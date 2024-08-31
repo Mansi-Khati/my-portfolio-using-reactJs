@@ -13,7 +13,7 @@ const works = [
       title: "Online Bakery Website",
       description: "A online webite to browse through products and order online.",
       codeLink: "https://github.com/Mansi-Khati/Sweet-Tooth",
-      projectLink: "https://sweettooth101.000webhostapp.com/",
+      projectLink: "https://rosybrown-clam-782132.hostingersite.com/SweetTooth/",
       imageUrl: images.sweet,
       
    },
